@@ -1,0 +1,23 @@
+{
+  "name": "Bored-Node-App",
+  "version": "1.0.0",
+  "description": "Bored-Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/X0dius/Bored-Node-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/X0dius/Bored-Node-App/issues"
+  },
+  "homepage": "https://github.com/X0dius/Bored-Node-App#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
